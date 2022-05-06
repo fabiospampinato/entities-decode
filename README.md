@@ -1,6 +1,6 @@
 # Entities Decode
 
-Fast function for decoding HTML entities, based on the [entities](https://github.com/fb55/entities) package.
+Fast function for decoding HTML entities.
 
 ## Install
 

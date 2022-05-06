@@ -1,8 +1,8 @@
 {
   "name": "entities-decode",
   "repository": "github:fabiospampinato/entities-decode",
-  "description": "Fast function for decoding HTML entities, based on the &quot;entities&quot; package.",
-  "version": "1.0.0",
+  "description": "Fast function for decoding HTML entities.",
+  "version": "2.0.0",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
