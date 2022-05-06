@@ -1,10 +1,10 @@
 
 /* IMPORT */
 
-import {describe} from 'ava-spec';
-import decode from '../dist';
+import {describe} from 'fava';
+import decode from '../dist/index.js';
 
-/* ENTITIES DECODE */
+/* MAIN */
 
 describe ( 'decode', it => {
 
