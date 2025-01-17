@@ -5,7 +5,7 @@ Fast function for decoding HTML entities.
 ## Install
 
 ```sh
-npm install --save entities-decode
+npm install entities-decode
 ```
 
 ## Usage
@@ -13,7 +13,9 @@ npm install --save entities-decode
 ```ts
 import decode from 'entities-decode';
 
-decode ( '&amp;&#x3a;' ); // => '&:'
+// Let's decode some HTML entities
+
+decode ( 'foo&amp;&#x3a;bar' ); // => 'foo&:bar'
 ```
 
 ## License
